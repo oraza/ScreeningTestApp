@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2024-11-01T10:45:38-05:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Screening Test App",
+      "author": [],
+      "contents": "\n\n          \n          \n           Screening Test App \n          \n          \n          Home\n          About\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Screening Test App\n            \n            \n              \n                \n                    \n                      \n                        Launch\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Source Code\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            About\n            This web-based app helps you to evaluate screening tool\n            by calculating various diagnostic efficiency statistics.\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Screening Test App\n            \n            \n              \n                \n                                    \n                    \n                      Launch\n                    \n                  \n                                    \n                    \n                      Source Code\n                    \n                  \n                                  \n              \n            \n            \n              \n              About\n              This web-based app helps you to evaluate screening tool\n              by calculating various diagnostic efficiency\n              statistics.\n              \n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2024-11-01T10:45:41-05:00"
+    }
+  ],
+  "collections": []
+}

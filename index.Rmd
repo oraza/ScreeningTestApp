@@ -1,0 +1,21 @@
+---
+title: "Screening Test App"
+image: "applogo.png"
+links:
+  - label: Launch
+    url: "https://www.linkedin.com/in/owraza/"
+  - label: Source Code
+    url: "https://github.com/oraza/ScreeningApp target = '_blank' "
+
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+## About
+
+This web-based app helps you to evaluate screening tool by calculating various diagnostic efficiency statistics.
+
+
+
+
